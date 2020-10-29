@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RDLogger_Example' do
+  pod 'RDLogger', :path => '../'
+
+  target 'RDLogger_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
