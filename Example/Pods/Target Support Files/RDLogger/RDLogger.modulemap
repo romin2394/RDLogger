@@ -1,0 +1,6 @@
+framework module RDLogger {
+  umbrella header "RDLogger-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "RDLogger",
+  "version": "0.1.0",
+  "summary": "A short description of RDLogger.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/romin2394/RDLogger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "romin2394": "srihari.mobidev20@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/romin2394/RDLogger.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RDLogger/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - RDLogger (0.1.0)
+
+DEPENDENCIES:
+  - RDLogger (from `../`)
+
+EXTERNAL SOURCES:
+  RDLogger:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RDLogger: 792e5cc4575f63a08937b99419e0c05ff2217082
+
+PODFILE CHECKSUM: faf7606acd914b26c21f2b32cc59dac6d7fd437d
+
+COCOAPODS: 1.10.0.beta.2

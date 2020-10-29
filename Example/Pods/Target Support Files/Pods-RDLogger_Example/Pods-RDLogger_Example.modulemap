@@ -1,0 +1,6 @@
+framework module Pods_RDLogger_Example {
+  umbrella header "Pods-RDLogger_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
