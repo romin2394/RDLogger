@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/romin2394/RDLogger'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'romin2394' => 'srihari.mobidev20@gmail.com' }
+  s.author           = { 'romin2394' => 'rdc2394@gmail.com' }
   s.source           = { :git => 'https://github.com/romin2394/RDLogger.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
