@@ -22,7 +22,7 @@ pod 'RDLogger'
 
 ## Author
 
-romin2394, srihari.mobidev20@gmail.com
+romin2394, rdc2394@gmail.com
 
 ## License
 
