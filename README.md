@@ -27,3 +27,7 @@ romin2394, rdc2394@gmail.com
 ## License
 
 RDLogger is available under the MIT license. See the LICENSE file for more info.
+
+## Buy me a Coffee
+
+<a href="https://www.buymeacoffee.com/romin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
